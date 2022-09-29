@@ -1,4 +1,14 @@
 ### Hi there 👋
+### 🌱 I’m currently learning:
+> 
+- Python
+- Excel
+### 📫 How to reach me: 
+> 
+- Email: dverastegui@uiowa.edu
+- Instagram: @danteverastegui
+- LinkedIn - https://www.linkedin.com/in/dante-verastegui/
+### 🏀 Fun fact: I love Basketball!
 
 <!--
 **danteverastegui/danteverastegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
